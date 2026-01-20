@@ -1,6 +1,8 @@
 # Medical Insurance Cost Predictor
 **Live Demo:** [https://huggingface.co/spaces/arju10/medical-insurance-cost-predictor](https://huggingface.co/spaces/arju10/medical-insurance-cost-predictor)
 
+
+**Google Colab** https://colab.research.google.com/drive/1O_dfV25_pbGsJPjIpVeaQ59puuXzC4yr?usp=sharing
 ---
 
 ## Project Overview
@@ -63,7 +65,7 @@ medical-insurance-cost-predictor/
    pip install -r requirements.txt
 ```
 
-3. **Train the model :(Already trained)**
+3. **Train the model :(Already trained) Check Google Colab-> https://colab.research.google.com/drive/1O_dfV25_pbGsJPjIpVeaQ59puuXzC4yr?usp=sharing**
    - Upload `insurance_prediction_project.ipynb` to Google Colab
    - Upload `insurance.csv` to your Google Drive
    - Run all cells to train the model from scratch
