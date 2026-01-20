@@ -52,9 +52,10 @@ medical-insurance-cost-predictor/
 
 ### Installation Steps
 
-1. **Clone or download this repository**
+1. **Clone or download this repository** 
 ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/arju10/medical-insurance-cost-predictor.git
+   cd medical-insurance-cost-predictor
 ```
 
 2. **Install required packages:**
@@ -62,7 +63,7 @@ medical-insurance-cost-predictor/
    pip install -r requirements.txt
 ```
 
-3. **Train the model :**
+3. **Train the model :(Already trained)**
    - Upload `insurance_prediction_project.ipynb` to Google Colab
    - Upload `insurance.csv` to your Google Drive
    - Run all cells to train the model from scratch
